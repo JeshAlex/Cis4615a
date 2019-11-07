@@ -6,7 +6,7 @@
  *  Prints "Hello, World". By tradition, this is everyone's first program.
  *
  * Revision History:
- * - Added " - from Rajesh Ramswamy - Fall 2019 - UCF"
+ * - Added "Hello, World - from Rajesh Ramswamy - Fall 2019 - UCF"
  *  % java Cis4615a
  *  Hello, World - from Rajesh Ramswamy - Fall 2019 - UCF"
  *  %
